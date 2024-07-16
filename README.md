@@ -9,7 +9,7 @@ on an hourly basis in order to more intelligently procure products from our supp
 
 ## Set Up
 
-* First create a virtual environment to avoid conflicts between existing libraries.
+First create a virtual environment to avoid conflicts between existing libraries.
 
 ```bash
 python3 -m venv myenv
