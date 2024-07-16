@@ -4,8 +4,10 @@
 
 Gala Groceries approached Cognizant to help them with a supply chain issue. Groceries are highly perishable items. If you overstock, you are wasting money on excessive storage and waste, but if you understock, then you risk losing customers. They want to know how to better stock the items that they sell.
 
-“Can we accurately predict the stock levels of products, based on sales data and sensor data, 
-on an hourly basis in order to more intelligently procure products from our suppliers.”
+```markdown
+Can we accurately predict the stock levels of products, based on sales data and sensor data, 
+on an hourly basis in order to more intelligently procure products from our suppliers.
+```
 
 ## Set Up
 
