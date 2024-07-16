@@ -16,7 +16,7 @@ python3 -m venv myenv
 ```
 For MacOS:
 ```bash
-source myenv/activate( for MAC) || myenv/ (for Windows)
+source myenv/bin/activate
 ```
 For Windows:
 ```bash
@@ -49,3 +49,7 @@ These tables are merged by the linked columns indicated by the arrows.
 
  In `modeling.ipynb`, Keras's `RandomForestRegressor` is used for predictive modeling.
  In `model.py`, TensorFlow library is used to create small neural network which reduces the `MAE` from 0.24 to 0.22.
+
+## Reference
+
+![Certificate](include/imgs/certificate.png)
